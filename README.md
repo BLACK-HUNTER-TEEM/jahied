@@ -478,5 +478,5 @@ if __name__ == '__main__':
 
     menu()
 
-# okay decompiling jahied-pro.pyc
+# okay decompiling jahied.pyc
 
