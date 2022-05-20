@@ -472,7 +472,7 @@ def action():
 
     raw_input('\n[Press Enter To Go Back]')
 
-    os.system('python2 jahied-pro.py')
+    os.system('python2 jahied.py')
 
 if __name__ == '__main__':
 
